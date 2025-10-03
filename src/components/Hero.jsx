@@ -10,12 +10,12 @@ const Hero = () => {
         className="absolute inset-0 w-full h-full object-cover z-0 opacity-90"
       />
       <h1
-        className="relative text-5xl md:text-9xl mt-20 mb-0 md:mb-auto text-lime-950 font-extrabold drop-shadow-lg"
+        className="relative text-7xl md:text-9xl mt-20 mb-0 md:mb-auto text-lime-950 font-extrabold drop-shadow-lg"
       >
         CAMPST 
       </h1>
         <h1
-        className="relative text-5xl md:text-9xl mb-100 text-lime-950 font-extrabold drop-shadow-lg"
+        className="relative text-7xl md:text-9xl mb-100 text-lime-950 font-extrabold drop-shadow-lg"
       >
         COLLECTIVE
       </h1>

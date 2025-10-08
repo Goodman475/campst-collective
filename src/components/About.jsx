@@ -4,7 +4,7 @@ import ProfileIcon from '../assets/profile.jpg';
 const About = () => {
   return (
     <div className="text-center px-2">
-      <h1 className="text-2xl md:text-4xl font-bold mt-5 text-lime-800">JACOB ROTH</h1>
+      <h1 className="text-2xl md:text-4xl font-bold mt-5 text-lime-950">JACOB ROTH</h1>
       <img className="h-auto w-32 md:w-50 mx-auto mt-4 rounded-full" src={ProfileIcon} alt="icon" />
       <div className="m-10 bg-white/60 backdrop-blur-md rounded-lg p-4 md:p-6 shadow-lg">
         <p className="text-lime-900 text-left leading-relaxed text-sm md:text-base">

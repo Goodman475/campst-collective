@@ -13,7 +13,7 @@ const NavBar = () => {
           <a href="#hero" className="hover:text-amber-400 transition-colors duration-200">HOME</a>
         </li>
         <li>
-          <a href="#about" className="hover:text-amber-400 transition-colors duration-200">ABOUT</a>
+          <a href="#about-campst" className="hover:text-amber-400 transition-colors duration-200">ABOUT</a>
         </li>
         <li>
           <a href="#contacts" className="hover:text-amber-400 transition-colors duration-200">CONTACT</a>

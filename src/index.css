@@ -4,18 +4,3 @@ html {
   scroll-behavior: smooth;
 }
 
-/* @keyframes neon-glow {
-  0%, 100% {
-    text-shadow: 0 0 12px #fbbf24, 0 0 24px #fbbf24, 0 0 36px #fbbf24;
-    opacity: 1;
-    transform: translateY(0);
-  }
-  50% {
-    text-shadow: 0 0 24px #fbbf24, 0 0 48px #f4c44c, 0 0 72px #fbbf24;
-    opacity: 0.85;
-    transform: translateY(-8px);
-  }
-}
-.animate-neon {
-  animation: neon-glow 2s infinite;
-}  */

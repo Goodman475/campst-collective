@@ -1,8 +1,10 @@
+import { Routes, Route } from "react-router-dom"; 
 import About from "./components/About";
 import Contacts from "./components/Contacts";
 import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import NavBar from "./components/NavBar";
+import { AboutCampst } from "./components/AboutCampst"; 
 
 function App() {
   return (
@@ -11,6 +13,9 @@ function App() {
       <main className="flex-1 flex flex-col gap-8">
         <section id="hero">
           <Hero />
+        </section>
+        <section id="about-campst">
+          <AboutCampst />
         </section>
         <section id="about">
           <About />
